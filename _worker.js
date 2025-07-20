@@ -794,5 +794,5 @@ function getVLESSConfig(userID, hostName) {
 	}
   }
 const cn_hostnames = [
-'dynv6.com'
+'   '
 ];
